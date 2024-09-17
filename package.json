@@ -1,0 +1,26 @@
+{
+  "name": "css-animations",
+  "version": "1.0.0",
+  "description": "CSS Animations Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleandroPresta/css-animations.git"
+  },
+  "keywords": [
+    "css",
+    "animations"
+  ],
+  "author": "Aleandro Presta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleandroPresta/css-animations/issues"
+  },
+  "homepage": "https://github.com/AleandroPresta/css-animations#readme",
+  "dependencies": {
+    "@ciar4n/izmir": "^1.0.1"
+  }
+}
