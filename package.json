@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/AleandroPresta/css-animations#readme",
   "dependencies": {
-    "@ciar4n/izmir": "^1.0.1"
+    "@ciar4n/izmir": "^1.0.1",
+    "scrollreveal": "^4.0.9"
   }
 }
